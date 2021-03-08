@@ -1,5 +1,5 @@
 {
-  "name": "time-on-page",
+  "name": "@billl89/time-on-page",
   "version": "1.0.0",
   "description": "",
   "main": "./lib/src/time_on_page.js",
